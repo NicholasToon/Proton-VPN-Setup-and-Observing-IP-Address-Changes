@@ -17,17 +17,17 @@ In this short project, we will observe the impact of a virtual private network (
 
 # Setting Up VPN in an Azure Virtual Machine
 
-## Step-by-Step Guide
+## Exercise Procedure 
 
-1. Start by accessing the website "whatismyipaddress.com" on your actual PC. Take note of your public IP address and the corresponding city.
+1. Go to "whatismyipaddress.com" on your actual PC. Take note of your public IP address and the city.
 
-2. Create a virtual machine in Azure and establish a connection to it using Remote Desktop Protocol (RDP). This connection bridges your PC and the Azure virtual machine.
+2. Create a <a href="https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure"> virtual machine a/> in Azure and establish a connection to it using Remote Desktop Protocol (RDP).
 
-3. Within the Azure virtual machine, visit the website "whatismyipaddress.com" once again. This time, note down the new IP address and location. It should differ from your actual PC's IP address.
+3. Inside the Azure virtual machine find the website "whatismyipaddress.com" again. Write down the new IP address and its location, which should not match your computer's IP address.
 
-4. Sign up for the free version of ProtonVPN on your PC. Download and install the ProtonVPN client.
+4. Download and install the ProtonVPN client. It will give you access to the free servers once you sign up and install the app.
 
-5. Inside the Azure virtual machine, connect to a ProtonVPN server located in Japan (or another available country). This establishes a VPN connection between the virtual machine and the chosen ProtonVPN server.
+5. Inside the VM, connect to a ProtonVPN server located in a country that is not your own. This establishes a VPN connection between the virtual machine and the chosen ProtonVPN server.
 
 6. Access the website "whatismyipaddress.com" again from within the Azure virtual machine, with the VPN active. Take note of the new IP address and location displayed. This IP address should reflect the location of the VPN server (e.g., Tokyo, Japan).
 
@@ -35,8 +35,7 @@ By following these steps, you will have three entries in your text file represen
 
 1. IP address and location from your actual PC without using a VPN.
 
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/a4b5720e-b589-4d32-b1bb-3b9d8faf0a15)
-[Screenshot Here: PC IP Address]
+![image](https://i.imgur.com/TFS8VgX.png)
 
 4. IP address and location from the Azure virtual machine without using a VPN.
 
