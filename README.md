@@ -44,14 +44,6 @@ If everything went correctly, you will have three entries in your text file repr
 ![image](https://i.imgur.com/6XYoCAT.png)
 
 
-## Understanding the Results
+## 
 
-From this exercise, you can observe the following:
-
-- When accessing the website from your actual PC without a VPN, it shows your original IP address and your city location.
-
-- After connecting to the Azure virtual machine and accessing the website, a different IP address and the location of the virtual machine (e.g., Paris) are displayed.
-
-- Finally, by connecting to the ProtonVPN server in Japan from within the virtual machine and accessing the website again, another IP address and the location of the VPN server (e.g., Tokyo, Japan) are shown.
-
-This exercise demonstrates how VPNs work by encrypting and routing your internet traffic through remote servers, making it appear as if you are browsing from different locations. VPNs can enhance privacy, and security, and allow you to bypass geo-restrictions.
+This exercise illustrates how VPNs work. VPNs encrypt and route your internet traffic through remote servers, creating a secure tunnel. This makes it seem as though you are browsing from various locations. VPNs can improve privacy and security and enable you to bypass geo-restrictions. However, it's important to note that using VPNs does not guarantee complete anonymity, regardless of any assurances provided in terms and conditions.
