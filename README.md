@@ -4,10 +4,6 @@
 <h1>Observing the Effect of a VPN on IP Addressing</h1>
 In this project, I observed the impact of a virtual private network (VPN) on IP address, location, and web browsing.  The video will guide you visually through the steps involved and then further on there are some notes and screenshots provided for highlights of some or all of the material.<br />
 
-<h2>Video Demonstration</h2>
-
-- ### [Observing the Effect of a VPN on IP Addressing](https://drive.google.com/file/d/1H1rEYsJfHQOIKJbI4bwaKOvi5WD3pC1V/view?usp=drive_link)
-  
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
