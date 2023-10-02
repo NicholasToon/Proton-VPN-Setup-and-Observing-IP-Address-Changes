@@ -17,7 +17,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 # Setting Up VPN in an Azure Virtual Machine
 
-## Exercise Procedure 
+##  Setup 
 
 1. Go to "whatismyipaddress.com" on your actual PC. Take note of your public IP address and the city.
 
