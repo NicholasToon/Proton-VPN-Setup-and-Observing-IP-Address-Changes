@@ -31,15 +31,15 @@ In this short project, we will observe the impact of a virtual private network (
 
 If everything went correctly, you will have three entries in your text file representing different IP addresses and locations:
 
- IP address and location from your actual PC without using a VPN.
+ - IP address and location from your actual PC without using a VPN.
 
 ![image](https://i.imgur.com/TFS8VgX.png)
 
- IP address and location from the Azure virtual machine without using a VPN.
+ - IP address and location from the Azure virtual machine without using a VPN.
 
 ![image](https://i.imgur.com/3HPgws4.png)
 
- IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in the Netherlands.
+ - IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in the Netherlands.
 
 ![image](https://i.imgur.com/6XYoCAT.png)
 
