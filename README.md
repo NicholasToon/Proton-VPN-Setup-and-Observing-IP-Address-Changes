@@ -29,7 +29,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 6. Go to "whatismyipaddress.com" using the Azure virtual machine while the VPN is on. Write down the new IP address and where it shows you are (like Naaldwijk, Netherlands), which should match the VPN server's location.
 
-By following these steps, you will have three entries in your text file representing different IP addresses and locations:
+If everything went correctly, you will have three entries in your text file representing different IP addresses and locations:
 
 1. IP address and location from your actual PC without using a VPN.
 
