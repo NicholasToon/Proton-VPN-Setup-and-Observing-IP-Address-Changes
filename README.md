@@ -17,8 +17,6 @@ In this short project, we will observe the impact of a virtual private network (
 
 # Setting Up VPN in an Azure Virtual Machine
 
-##  Setup 
-
 1. Go to "whatismyipaddress.com" on your actual PC. Take note of your public IP address and the city.
 
 2. Create a [virtual machine](https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure) in Azure and establish a connection to it using Remote Desktop Protocol (RDP).
