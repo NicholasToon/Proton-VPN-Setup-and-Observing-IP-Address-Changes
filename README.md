@@ -29,7 +29,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 5. Inside the VM, connect to a ProtonVPN server located in a country that is not your own. This establishes a VPN connection between the virtual machine and the chosen ProtonVPN server.
 
-6. Access the website "whatismyipaddress.com" again from within the Azure virtual machine, with the VPN active. Take note of the new IP address and location displayed. This IP address should reflect the location of the VPN server (e.g., Tokyo, Japan).
+6. Go to "whatismyipaddress.com" using the Azure virtual machine while the VPN is on. Write down the new IP address and where it shows you are (like Naaldwijk, Netherlands), which should match the VPN server's location.
 
 By following these steps, you will have three entries in your text file representing different IP addresses and locations:
 
@@ -39,13 +39,12 @@ By following these steps, you will have three entries in your text file represen
 
 4. IP address and location from the Azure virtual machine without using a VPN.
 
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/0ffe175a-a0f2-47d8-a8e2-44105126c42b)
-[Screenshot Here: Azure VM IP Address]
+![image](https://i.imgur.com/3HPgws4.png)
 
-6. IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in Japan.
+6. IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in the Netherlands.
 
-![image](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations/assets/106440235/cca59671-88f4-490d-892c-6dd93d5c5974)
-[Screenshot Here: VPN IP Address]
+![image](https://i.imgur.com/6XYoCAT.png)
+
 
 ## Understanding the Results
 
