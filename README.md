@@ -35,11 +35,11 @@ If everything went correctly, you will have three entries in your text file repr
 
 ![image](https://i.imgur.com/TFS8VgX.png)
 
-4. IP address and location from the Azure virtual machine without using a VPN.
+2. IP address and location from the Azure virtual machine without using a VPN.
 
 ![image](https://i.imgur.com/3HPgws4.png)
 
-6. IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in the Netherlands.
+3. IP address and location from the Azure virtual machine with the VPN connected to a ProtonVPN server in the Netherlands.
 
 ![image](https://i.imgur.com/6XYoCAT.png)
 
