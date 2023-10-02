@@ -21,7 +21,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 1. Go to "whatismyipaddress.com" on your actual PC. Take note of your public IP address and the city.
 
-2. Create a <a href="https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure"> virtual machine a/> in Azure and establish a connection to it using Remote Desktop Protocol (RDP).
+2. Create a <a href="https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure"> virtual machine a\> in Azure and establish a connection to it using Remote Desktop Protocol (RDP).
 
 3. Inside the Azure virtual machine find the website "whatismyipaddress.com" again. Write down the new IP address and its location, which should not match your computer's IP address.
 
