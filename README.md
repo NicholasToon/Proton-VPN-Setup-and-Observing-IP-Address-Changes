@@ -2,7 +2,7 @@
 
 
 <h1>Observing the Effect of a VPN on IP Addressing</h1>
-In this project, I observed the impact of a virtual private network (VPN) on IP address, location, and web browsing.  The video will guide you visually through the steps involved and then further on there are some notes and screenshots provided for highlights of some or all of the material.<br />
+In this short project, we will observe the impact of a virtual private network (VPN) on IP address, location, and web browsing.  The video will guide you visually through the steps involved and then further on there are some notes and screenshots provided for highlights of some or all of the material.<br />
 
 <h2>Environments and Technologies Used</h2>
 
