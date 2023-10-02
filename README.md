@@ -3,7 +3,7 @@
 </p>
 
 <h1>VPN (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+.<br />
 
 
 <h2>Video Demonstration</h2>
