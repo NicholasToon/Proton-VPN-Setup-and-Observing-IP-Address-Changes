@@ -6,9 +6,9 @@ In this project, I observed the impact of a virtual private network (VPN) on IP 
 
 <h2>Environments and Technologies Used</h2>
 
+-	ProtonVPN (free version)
 - Microsoft Azure (Virtual Machines)
 -	Remote Desktop
--	ProtonVPN (free version)
 
 
 <h2>Operating System Used </h2>
