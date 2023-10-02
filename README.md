@@ -15,7 +15,7 @@ In this project, I observed the impact of a virtual private network (VPN) on IP 
 
 - Windows 10 (21H2)
 
-# Lab Tutorial: Setting Up VPN in an Azure Virtual Machine
+# Setting Up VPN in an Azure Virtual Machine
 
 ## Objective
 Gain a better understanding of VPNs by setting up a Virtual Private Network inside an Azure virtual machine. This lab will explore the impact of VPNs on IP addresses and locations.
