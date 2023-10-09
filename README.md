@@ -21,7 +21,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 2. Create a [virtual machine](https://github.com/NicholasToon/Creating-Resource-Groups-and-Deploying-Virtual-Machines-in-Azure) in Azure and establish a connection to it using Remote Desktop Protocol (RDP).
 
-3. Inside the Azure virtual machine find the website "whatismyipaddress.com" again. Write down the new IP address and its location, which should not match your computer's IP address.
+3. Inside the Azure virtual machine, find the website "whatismyipaddress.com" again. Write down the new IP address and its location, which should *not* match your computer's IP address.
 
 4. Download and install the ProtonVPN client. It will give you access to the free servers once you sign up and install the app.
 
