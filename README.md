@@ -9,7 +9,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 -	ProtonVPN (free version)
 - Microsoft Azure (Virtual Machines)
--	Remote Desktop
+-	Remote Desktop Connection (RDC)
 
 
 ## Operating System Used 
