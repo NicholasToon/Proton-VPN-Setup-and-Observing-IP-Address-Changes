@@ -8,7 +8,7 @@ In this short project, we will observe the impact of a virtual private network (
 ## Environments and Technologies Used
 
 -	ProtonVPN (free version)
-- Microsoft Azure (Virtual Machines)
+- Microsoft Azure (Virtual Machines/Compute)
 -	Remote Desktop Connection (RDC)
 
 
