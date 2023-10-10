@@ -1,17 +1,18 @@
 ![image](https://i.imgur.com/gBwrx1W.jpg)
 
 
-<h1>Observing the Effect of a VPN on IP Addressing</h1>
-In this short project, we will observe the impact of a virtual private network (VPN) on IP address, location, and web browsing. <br />
+# Observing the Effect of a VPN on IP Addressing
 
-<h2>Environments and Technologies Used</h2>
+In this short project, we will observe the impact of a virtual private network (VPN) on IP addresses, locations, and web browsing.
+
+## Environments and Technologies Used
 
 -	ProtonVPN (free version)
 - Microsoft Azure (Virtual Machines)
 -	Remote Desktop
 
 
-<h2>Operating System Used </h2>
+## Operating System Used 
 
 - Windows 10 (21H2)
 
