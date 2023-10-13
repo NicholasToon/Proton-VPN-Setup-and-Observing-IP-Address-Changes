@@ -47,4 +47,4 @@ If everything went correctly, you will have three entries in your text file repr
 
 ## 
 
-This exercise illustrates how VPNs work. VPNs encrypt and route your internet traffic through remote servers, creating a secure tunnel. This makes it seem as though you are browsing from various locations. VPNs can improve privacy and security and enable you to bypass geo-restrictions. However, it's important to note that using VPNs does not guarantee complete anonymity, regardless of any assurances provided in terms and conditions.
+This exercise illustrates how VPNs work. VPNs encrypt and route your internet traffic through remote servers, creating a secure tunnel. This makes it seem as though you are browsing from various locations. VPNs can improve privacy and security and enable you to bypass geo-restrictions. However, it's important to note that using VPNs does not guarantee complete anonymity, regardless of any assurances provided in terms and conditions. Thank you for your time.
