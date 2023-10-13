@@ -14,7 +14,7 @@ In this short project, we will observe the impact of a virtual private network (
 
 ## Operating System Used 
 
-- Windows 10 (21H2)
+- Windows 10 Pro (22H2)
 
 # Setting Up VPN in an Azure Virtual Machine
 
