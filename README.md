@@ -5,6 +5,8 @@
 
 In this short project, we will observe the impact of a virtual private network (VPN) on IP addresses, locations, and web browsing.
 
+*Always delete your resource groups and other environments in Azure to avoid incurring any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
+
 ## Environments and Technologies Used
 
 -	ProtonVPN (free version)
